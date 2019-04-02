@@ -14,7 +14,7 @@ namespace Hello
 	    Console.WriteLine("Hello World!");
 
             // Keep the console window open in debug mode.
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("何かキーを押してください");
             Console.ReadKey();
         }
     }
