@@ -11,7 +11,11 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello OSI!");
-	    Console.WriteLine("Hello World!");
+	        Console.WriteLine("Hello World!");
+
+            Console.WriteLine("2019/04/09 Step1!");
+            Console.WriteLine("2019/04/09 Step2!");
+            Console.WriteLine("2019/04/09 Step3!");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("何かキーを押してください");
