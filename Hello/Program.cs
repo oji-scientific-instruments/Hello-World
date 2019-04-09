@@ -14,7 +14,7 @@ namespace Hello
 	    Console.WriteLine("Hello World!");
 
             // Keep the console window open in debug mode.
-            Console.WriteLine("何かキーを押してください");
+            Console.WriteLine("何かキーを押してください To_Japanease commit");
             Console.ReadKey();
         }
     }
