@@ -15,6 +15,7 @@ namespace Hello
 
             // Keep the console window open in debug mode.
             Console.WriteLine("何かキーを押してください To_Japanease commit");
+            Console.WriteLine("Branch push Test 1");
             Console.ReadKey();
         }
     }
